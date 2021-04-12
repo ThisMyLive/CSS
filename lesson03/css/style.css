@@ -1,0 +1,19 @@
+/*标签选择器*/
+h1{
+    color: #6868a2;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.t1{
+    color: red;
+}
+.t2{
+    color: green;
+}
+
+#t2{
+    color: beige;
+}
+#t3{
+    color: chartreuse;
+}

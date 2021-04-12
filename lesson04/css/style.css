@@ -1,0 +1,19 @@
+
+.p1~p{
+    color: red;
+    font-size: 40px;
+}
+.p1+p{
+    background-color: chartreuse;
+    font-size: 10px;
+}
+
+t22 p{
+    font-size: 20px;
+}
+body>p{
+    font-size: 50px;
+}
+body p{
+    font-size: 20px;
+}
