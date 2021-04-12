@@ -1,0 +1,16 @@
+#first{
+    color: green;
+    font-size: 45px;
+}
+a[id*="first"]{
+    color: red;
+    font-size: 33px;
+}
+.s0 a{
+     color: red;
+     font-size: 33px;
+ }
+a[class*="s1 s2 s3"]{
+    color: yellow;
+    font-size: 33px;
+}

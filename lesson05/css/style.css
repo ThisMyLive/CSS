@@ -1,0 +1,20 @@
+ul li:first-child{
+    font-size: 40px;
+    color:green;
+    font-family: "Arial Black", cursive;
+}
+ul li:last-child{
+    font-size: 25px;
+    color: #6868a2;
+    font-family: 宋体,cursive;
+}
+ul li:nth-child(2){
+    font-size: 35px;
+    background-color: bisque;
+    color: red;
+}
+p:nth-of-type(1){
+    font-size: 35px;
+    background-color: bisque;
+    color: red;
+}
